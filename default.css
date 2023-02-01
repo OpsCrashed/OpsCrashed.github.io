@@ -40,7 +40,7 @@
     right: 70px;
 }
 
-.send_units_form.tab_type_support > a.button {
+a.button {
 
     margin: 0 !important;
     width: 150px !important;
