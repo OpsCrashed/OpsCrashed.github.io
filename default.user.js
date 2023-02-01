@@ -13,7 +13,7 @@ let $ = window.jQuery;
 
 $(document).ready(function () {
 
-    let $CssStyle = $('<link rel="stylesheet" href="https://opscrashed.github.io/css/default.css" type="text/css">');
+    let $CssStyle = $('<link rel="stylesheet" href="https://opscrashed.github.io/default.css" type="text/css">');
 
     $("head").append($CssStyle);
 
