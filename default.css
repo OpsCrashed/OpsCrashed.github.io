@@ -1,0 +1,27 @@
+﻿.attack_type_wrapper .clearfix {
+
+    position: absolute !important;
+    bottom: 0;
+    left: 0;
+}
+
+#btn_runtime {
+
+    position: absolute !important;
+    bottom: 0;
+    right: 0;
+}
+
+#btn_plan_attack_town {
+
+    position: absolute !important;
+    bottom: 0;
+    right: 35px;
+}
+
+#btn_attack_town {
+
+    position: absolute !important;
+    right: 0;
+    width: 150px;
+}
