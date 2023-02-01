@@ -1,4 +1,4 @@
-﻿.attack_type_wrapper .clearfix {
+﻿.attack_type_wrapper {
 
     position: absolute !important;
     bottom: 0;
@@ -24,4 +24,19 @@
     position: absolute !important;
     right: 0;
     width: 150px;
+}
+
+.attack_support_window .heroes_pickup .icon_border {
+
+    position: absolute !important;
+    bottom: -130px;
+    right: 98px;
+}
+
+.cbx_include_hero .checkbox_new {
+
+    position: absolute;
+    bottom: -130px;
+    right: 80px;
+
 }
