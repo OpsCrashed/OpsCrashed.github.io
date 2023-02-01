@@ -33,10 +33,9 @@
     right: 98px;
 }
 
-.cbx_include_hero .checkbox_new {
+.attack_support_window .heroes_pickup .cbx_include_hero {
 
-    position: absolute;
+    position: absolute !important;
     bottom: -130px;
-    right: 80px;
-
+    right: 70px;
 }
