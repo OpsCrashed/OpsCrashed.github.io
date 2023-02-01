@@ -39,3 +39,13 @@
     bottom: -130px;
     right: 70px;
 }
+
+.send_units_form.tab_type_support > .button {
+
+    margin: 0 !important;
+    width: 150px !important;
+}
+
+.attack_support_window .button_wrapper {
+    text-align: right !important;
+}
